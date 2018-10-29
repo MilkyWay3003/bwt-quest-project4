@@ -1,0 +1,14 @@
+pipvendor
+.idea
+__pycache__
+venv
+.env
+env
+.scrapy
+images
+<<<<<<< HEAD
+reftask4.txt
+result.json
+log.txt
+=======
+>>>>>>> 0056e26aa27483482af32c27306ffad43c544abb
